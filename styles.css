@@ -1,0 +1,118 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap')
+</style>
+
+
+body{
+
+}
+
+
+body{
+     background-image: url(bg.png);
+     line-height: 1.6;
+     background-color: rgb(255, 132, 0);
+} 
+ 
+ header{
+   ;
+    background-color:rgb(238, 113, 11);
+    color: #fff;
+    padding: 6px;
+}
+
+header h1 {
+    font-size: 2em;
+    color: #fff;
+}
+header img{
+    size: 6px;
+}
+
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline-flex;
+    margin-right: 20px;
+}
+
+
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    display: inline-block;
+    box-shadow: inset;
+}
+
+/* Apply hover effect to links */
+header nav ul li a:hover {
+    background-color: #f0f0f0;
+    color: blue;
+    border-radius: 5px;
+}
+.titr1{
+    margin-top:  10px;;
+    }
+    .titr1 h1{
+        font-family: "Urbanist", sans-serif;
+        font-size: 52px;
+        margin-bottom: 60px;
+        
+    }
+    .why{
+        margin-top:  10px;;
+        }
+        .why h1{
+            font-family: "Urbanist", sans-serif;
+            font-size: 52px;
+            margin-bottom: 60px;
+            
+        }
+        .why souswhy{
+            font-family: "Urbanist", sans-serif;
+            font-size: 52px;
+            margin-bottom: 60px;
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.titr{
+margin-top:  10px;;
+}
+.titr h1{
+    font-family: "Urbanist", sans-serif;
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.teams{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+.teams .sous t {
+    background-color: mediumorchid;
+    margin: 5px;
+    margin-bottom: 50px;}
